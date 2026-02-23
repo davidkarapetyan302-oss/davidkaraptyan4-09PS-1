@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.CPSzadanie" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">#6366F1</item>
+        <item name="colorPrimaryVariant">#4F52E0</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+
+        <!-- Secondary brand color -->
+        <item name="colorSecondary">#10B981</item>
+        <item name="colorSecondaryVariant">#059669</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+
+        <!-- Background color -->
+        <item name="android:windowBackground">#F5F7FA</item>
+        <item name="android:colorBackground">#F5F7FA</item>
+
+        <!-- Text colors -->
+        <item name="android:textColorPrimary">#1F2937</item>
+        <item name="android:textColorSecondary">#6B7280</item>
+    </style>
+</resources>
